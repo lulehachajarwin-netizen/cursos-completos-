@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"Chatbot de ventas MEGA PACK para WhatsApp Cloud API (Meta) + Gemini. Usa el número de prueba de Meta.","engines":{"node":">=18"},"main":"server.js","name":"chatbot-mega-pack-whatsapp-gemini","scripts":{"start":"node server.js"},"version":"1.0.0"}
